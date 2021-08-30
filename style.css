@@ -1,0 +1,55 @@
+
+.jumbotron {
+	background-image:url(https://esmmweighless.com/wp-content/uploads/2019/12/Carolyn-Cooking-Blog.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 0;
+    padding:25%;
+    padding-bottom: 40%;
+	
+
+}
+
+.jumbotron h1 {
+    max-width: 300px;
+	position: absolute;
+    background-color:rgba(245, 171, 32, 0.616);
+	top: 7px;
+	padding: 30px;
+	color: #0c1014;
+    border-radius:1em;
+    font-size: 30px;
+    left:120px;
+    right:120px;
+    text-align: center;
+    
+    
+
+}
+.jumbotron p{
+    background-color: rgba(245, 171, 32, 0.678);
+    color: rgb(3, 3, 1);
+    position: absolute;
+    left:75px;
+    right:75px;
+    top: 107px;
+    font-size: 25px absolute ;
+    padding: 25px 15px;
+    max-height: 175px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.btn{
+    height: 50px;
+    width: 250px;
+    font-size:20px;
+    background-color:rgb(245, 171, 32);
+    color: black;
+    letter-spacing: 1px;
+    border-radius: 2.5em;
+    position: absolute;
+    top: 275px;
+    left:120px;
+
+}
